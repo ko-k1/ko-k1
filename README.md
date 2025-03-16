@@ -14,19 +14,19 @@
              /kkkkkk/                   ----------------
             /kkkkkk/                    OS: windows and macintosh or linux (same arch ubuntu etc...)
            /kkkkkk/                     Host: Earth
-          /kkkkkk/        .nm"          Kernel: im mainly rust coder and system pentesting.
+          /kkkkkk/        .nm"          Kernel: Im mainly rust coder and system pentesting.
          /kkkkkk/      ,nkkk/           Uptime: 2000/6/29 ~ now
         /kkkkkk/   .nmkkkkk/            Packages: created a lot of program and code about 10GB
        /kkkkkk/ .nkkkkkkkk/             Shell: ksh 0.0.1a
       /kkkkkkkkkkkkkkP*'                Resolution: 16:9
-     /kkkkkkkkkkkP*'                    DE: idk
-    /kkkkkkkk<'                         WM:
-   /kkkkkkkkkkmn.,                      WM Theme:
-  /kkkkkk/"*kkklkkkmn.,                 Theme:
- /kkkkkk/     '"*kkkkkkkn.              Icons:
-/kkkkkk/           >kkkkkkk>            Terminal:
-                ,kkkkkkk"'              CPU: Human-Brain 12600k
-            ,kkkkkkk*"'                 GPU: Human-Brain UHD Graphics
+     /kkkkkkkkkkkP*'                    DE: desktop invironments? NO, CLI is the better
+    /kkkkkkkk<'                         WM: I loved hyprland
+   /kkkkkkkkkkmn.,                      WM Theme: i have no idea.
+  /kkkkkk/"*kkklkkkmn.,                 Theme: i have no idea.
+ /kkkkkk/     '"*kkkkkkkn.              Icons: i have no idea.
+/kkkkkk/           >kkkkkkk>            Terminal: I loved alacritty
+                ,kkkkkkk"'              CPU: Human-Brain 4790k
+            ,kkkkkkk*"'                 GPU: Human-Brain HD Graphics 4600
         ,jkkilkkkP*'          
 ```
 
