@@ -5,7 +5,7 @@
 </a>
 
 ## koki
-```ksh
+```kish
 ╔[ko-k1@github.com]: ~
 ╚═$ neofetch
 
@@ -17,7 +17,7 @@
           /kkkkkk/        .nm"          Kernel: Im mainly rust coder and system pentesting.
          /kkkkkk/      ,nkkk/           Uptime: 2000/6/29 ~ now
         /kkkkkk/   .nmkkkkk/            Packages: created a lot of program and code about 10GB
-       /kkkkkk/ .nkkkkkkkk/             Shell: ksh 0.0.1a
+       /kkkkkk/ .nkkkkkkkk/             Shell: kish 0.0.1a
       /kkkkkkkkkkkkkkP*'                Resolution: 16:9
      /kkkkkkkkkkkP*'                    DE: desktop invironments? NO, CLI is the better
     /kkkkkkkk<'                         WM: I loved hyprland
