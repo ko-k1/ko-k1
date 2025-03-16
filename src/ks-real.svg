@@ -1,0 +1,16 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   width="30%" viewBox="0 0 468 757" enable-background="new 0 0 468 757" xml:space="preserve">
+
+<!--ks-grad (Linear Gradient Fill)-->
+<defs>
+  <linearGradient id="ks-grd" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" style="stop-color:rgb(95,62,251);stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:rgb(206,62,241);stop-opacity:1"/>
+  </linearGradient>
+</defs>
+
+
+<!--ks old#8F3EF7-->
+<polygon points="234,1 358,1 230,352 467,215 425,331 187,469 447,619 210,756 86,756 308,627 161,543 124,643 0,643" fill="url(#ks-grd)" stroke="none" opacity="1.000000" stroke-width="2"/>
+
+</svg>
