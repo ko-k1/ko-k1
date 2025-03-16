@@ -13,6 +13,5 @@
 <polygon points="234,1 358,1 230,352 467,215 425,331 187,469 447,619 210,756 86,756 308,627 161,543 124,643 0,643" fill="url(#ks-grd)" stroke="none" opacity="1.000000" stroke-width="2"/>
 
 <!--koki(text)-->
-<text x="550" y="550" font-size="400" font-weight="bold" font-family="Cascadia Code, 'Courier New', monospace" fill="url(#ks-grd)" >  k</text>
-<text x="550" y="550" font-size="400" font-weight="bold" font-family="Cascadia Code, 'Courier New', monospace" fill="whitesmoke" >ko i</text>
+<text x="550" y="550" font-size="400" font-weight="bold" font-family="Cascadia Code, 'Courier New', monospace" fill="whitesmoke" >koki</text>
 </svg>
