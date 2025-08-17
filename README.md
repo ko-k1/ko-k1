@@ -40,4 +40,4 @@
 
 >Contact me
 
-[![Discord](https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=fff)](https://discordapp.com/users/kok1_) [![Telegram](https://img.shields.io/badge/Telegram-2AABEE?logo=telegram&logoColor=fff)](https://t.me/kxk1e)
+[![Discord](https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=fff)](https://discordapp.com/users/kok1_) [![Telegram](https://img.shields.io/badge/Telegram-2AABEE?logo=telegram&logoColor=fff)](https://t.me/kxk1e) [![GitHub](https://img.shields.io/badge/GitHub-24292e?logo=github&logoColor=fff)](https://github.com/ko-k1/#)
