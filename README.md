@@ -19,7 +19,7 @@
         /kkkkkk/   .nmkkkkk/            Packages: created a lot of program and code about 10GB
        /kkkkkk/ .nkkkkkkkk/             Shell: kish 0.0.1a
       /kkkkkkkkkkkkkkP*'                Resolution: 16:9
-     /kkkkkkkkkkkP*'                    DE: desktop invironments? NO, CLI is the better
+     /kkkkkkkkkkkP*'                    DE: desktop environments? NO, CLI is the better
     /kkkkkkkk<'                         WM: I loved hyprland
    /kkkkkkkkkkmn.,                      WM Theme: i have no idea.
   /kkkkkk/"*kkklkkkmn.,                 Theme: i have no idea.
