@@ -3,6 +3,7 @@
 <a href="https://github.com/ko-k1?tab=repositories">
   <img src="https://github.com/ko-k1/ko-k1/blob/main/src/ks-koki.svg" alt="ks" width="650" height="500">
 </a>
+<img src="https://komarev.com/ghpvc/?username=antonkomarev&style=falt">
 
 ## koki
 ```kish
