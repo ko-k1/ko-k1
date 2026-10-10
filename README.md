@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-[![views](https://komarev.com/ghpvc/?username=ko-k1&style=flat&color=5f3efb&label=views&abbreviated=true)](https://github.com/ko-k1)
+[![views](https://komarev.com/ghpvc/?username=ko-k1&style=flat&color=5f3efb&labelColor=24292f&label=views&abbreviated=true)](https://github.com/ko-k1)
 [![site](https://img.shields.io/badge/site-kxki.dev-5f3efb?style=flat&labelColor=24292f)](https://kxki.dev)
 [![community](https://img.shields.io/discord/893451702143963146?style=flat&label=community&logo=discord&logoColor=fff&labelColor=24292f&color=5f3efb)](https://discord.gg/nBrxmeC5mF)
 [![discord](https://img.shields.io/badge/discord-kok1__-5f3efb?style=flat&logo=discord&logoColor=fff&labelColor=24292f)](https://discord.com/users/881205213145464853)
